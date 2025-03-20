@@ -1,12 +1,4 @@
-    class Work():
-        if brain != empty:
-            keepCoding()
-        else:
-            orderCoffee()
-        
-
-
-
+   
 <h2 align="center">Hi 👋! My name is  shubham sagar</h2>
 
 ###
